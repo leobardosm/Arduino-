@@ -4,7 +4,7 @@ int a=5;
   int d=sq(b); 
 int  e=c+d; 
 int f=sqrt(e);  
-
+//Everythin is in these things above 
 void setup() {
   // put your setup code here, to run once:
   
